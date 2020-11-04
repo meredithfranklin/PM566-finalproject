@@ -1,8 +1,16 @@
-name: "my-website"
+name: "PM566"
 navbar:
-  title: "My Website"
+  title: "Meredith Franklin"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/USCbiostats/PM566
+    - text: "PM566 Home"
+      href: https://elastic-khorana-70231e.netlify.app/
+output:
+  html_document:
+    theme: cosmo
