@@ -44,8 +44,11 @@ opts_chunk$set(
 source("process_COVID_data.R")
 ```
 
-## Figure 1 {.tabset}
+<br>
 
+## COVID-19  Plots {.tabset}
+
+### Figure 1
 
 ```{r plot1, class.source="code-r-small", echo=FALSE}
 
@@ -80,8 +83,9 @@ p1_scatter
 ```
 
 
-## Figure 2 {.tabset}
-
+### Figure 2 {.tabset}
 ```{r p2, echo=FALSE}
 p2_scatter
 ```
+
+{-}
