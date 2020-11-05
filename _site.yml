@@ -1,4 +1,5 @@
 name: "PM566"
+output_dir: "."
 navbar:
   title: "Meredith Franklin"
   left:
