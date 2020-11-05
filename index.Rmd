@@ -1,6 +1,6 @@
 ---
 title: "Home"
-author: "Meredith Franklin"
+author: ""
 output: 
     html_document:
         toc: TRUE
